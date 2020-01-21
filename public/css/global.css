@@ -1,0 +1,96 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+body, button, input, select, textarea { font:12px"\5B8B\4F53", \5b8b\4f53; }
+/*h1, h2, h3, h4, h5, h6{ font-size:100%; }*/
+address, cite, dfn, em, var { font-style:normal; }
+code, kbd, pre, samp { font-family:couriernew, courier, monospace; }
+small{ font-size:12px; }
+ul, ol { list-style:none; }
+a { text-decoration:none;color: #333333 }
+a:hover { text-decoration:underline; }
+sup { vertical-align:text-top; }
+sub{ vertical-align:text-bottom; }
+legend { color:#000; }
+fieldset, img { border:0; }
+button, input, select, textarea { font-size:100%;border-width: 0; }
+table { border-collapse:collapse; border-spacing:0; }
+h1, h2, h3, h4, h5, h6{
+    font-weight: 400;
+    box-sizing: border-box;
+}
+em, i{
+    font-style: normal;
+}
+
+body{
+    overflow: hidden;
+    background-color: #f5f5f5;
+}
+div{
+    box-sizing: border-box;
+}
+li, span, a, em, span, i{
+    user-select: none;
+}
+.clearFix::after{
+    display: block;
+    clear: both;
+    content: '';
+}
+
+.fx{
+    display: flex;
+}
+.fxCenter{
+    justify-content: center;
+    align-items: center;
+}
+.col333{
+    color: #333;
+}
+.col666{
+    color: #666;
+}
+.col999{
+    color: #999;
+}
+.boxSing{
+    box-sizing: border-box;
+}
+
+.pointer{
+    cursor: pointer;
+}
+.active:active{
+    opacity: .7;
+}
+.pointer:hover{
+    color: #2AB0EA;
+}
+
+
+/**
+    font start
+ */
+@font-face {
+    font-family: 'webfont';
+    font-display: swap;
+    src: url('../font/webfont.eot'); /* IE9 */
+    src: url('../font/webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../font/webfont.woff2') format('woff2'),
+    url('../font/webfont.woff') format('woff'), /* chrome、firefox */
+    url('../font/webfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('../font/webfont.svg#webfont') format('svg'); /* iOS 4.1- */
+}
+
+
+body {
+    font-family: "webfont", serif !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/**
+    font end
+ */

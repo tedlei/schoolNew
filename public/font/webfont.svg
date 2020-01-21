@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+
+<svg>
+<metadata>
+Created by webfont
+</metadata>
+<defs>
+
+<font id="Noto Sans S Chinese DemiLight" horiz-adv-x="1000" vert-adv-y="1000" >
+  <font-face
+    
+    font-family="Noto Sans S Chinese DemiLight"
+    
+    font-weight="350"
+    
+    font-stretch="normal"
+    
+    units-per-em="1000"
+    
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    
+    ascent="880"
+    
+    descent="-120"
+    
+    x-height="540"
+    
+    cap-height="732"
+    
+    bbox="-1000 -1048 2928 1808"
+    
+    underline-thickness="50"
+    
+    underline-position="-100"
+    
+    unicode-range="U+0001-2CE93"
+    
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="cid9893" unicode="&#x4E2D;" d="M897 657v-463h-68v58h-297v-326h-69v326h-296v-63h-66v468h362v179h69v-179h365zM463 318v274h-296v-274h296zM829 318v274h-297v-274h297z"     />
+
+    
+    <glyph glyph-name="cid13634" unicode="&#x56FD;" d="M910 789v-866h-69v51h-684v-51h-67v866h820zM841 36v691h-684v-691h684zM638 346q14 -12 29 -26.5t29 -29.5t25.5 -29.5t19.5 -26.5l-45 -27q-15 24 -44 56.5t-58 58.5zM779 191v-57h-551v57h236v177h-193v58h193v151h-221v60h515v-60h-232v-151h206v-58h-206v-177h253z
+"     />
+
+    
+
+  </font>
+</defs></svg>

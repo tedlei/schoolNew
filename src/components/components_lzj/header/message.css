@@ -1,0 +1,123 @@
+.el-dropdown-menu-left1{
+  flex-direction: column;
+  justify-content: space-between;
+  width: 350px;
+  height: 370px;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-tit{
+  position: relative;
+  font-size: 18px;
+  color: #333333;
+  text-align: center;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-tit:hover{
+  background-color: #fff;
+  color: #333333;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-tit .clear{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 30px;
+  margin: auto 0;
+  font-size: 15px;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-footer{
+  color: #999;
+  text-align: center;
+  font-size: 14px;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-footer i{
+  font-size: 12px;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu-left1-main{
+  flex: 1;
+  color: #999;
+  text-align: center;
+  font-size: 14px;
+}
+.el-dropdown-menu-left1 .el-dropdown-menu__item:hover{
+  background-color: transparent!important;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1 .el-dialog__wrapper{
+  height: 128px;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1{
+  overflow: hidden;
+  padding: 0;
+  text-align: left;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1 .el-dialog__wrapper{
+  overflow: hidden;
+  height: 128px;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1 .messageContent{
+  display: inline-block;
+  overflow: hidden;
+  width: 225px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1 .el-dialog__body{
+  padding: 0;
+}
+.el-dropdown-menu-left1-main1 .main_message{
+  position: relative;
+  padding: 10px 20px;
+  line-height: 22px;
+  border-bottom: 1px solid #E6E6E6;
+  font-size: 0;
+}
+.el-dropdown-menu-left1-main1 .main_message span:nth-last-child(2){
+  overflow: hidden;
+  margin-right: 5px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.el-dropdown-menu-left1-main1 .main_message span, .el-dropdown-menu-left1-main1 .main_message div{
+  font-size: 14px;
+}
+.el-dropdown-menu-left1-main.el-dropdown-menu-left1-main1 .pointer:hover span{
+  color: #2AB0EA;
+}
+.el-dropdown-menu-left1-main1 .el-dropdown-menu-left1-main-num, .el-dropdown-menu-left1-main-num{
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background-color: #FF0000;
+  color: #fff;
+  text-align: center;
+  line-height: 16px;
+  border-radius: 4px;
+}
+.el-dropdown-menu-left1-main1 .el-dropdown-menu-left1-main-num{
+  top: 8px;
+  left: 15px;
+}
+.el-dropdown-menu-left1-main-num{
+  left: -7px;
+  top: -1px;
+}
+.el-dropdown-menu-left1-main .dialog{
+  /*overflow: hidden;*/
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  padding: 0;
+  width: 240px;
+  height: 200px;
+}
+.el-dropdown-menu-left1-main .dialog > div{
+  box-sizing: border-box;
+  margin: 0!important;
+  width: 240px;
+  height: 200px;
+  padding: 0;
+  border: 1px solid #e5e5e5;
+}
+.in-school{
+  width: 121px;
+}
