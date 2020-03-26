@@ -133,7 +133,7 @@ export default {
 
     //当获取数据时
     getData(obj){
-      let tpObj = this.teacherPublishObj;
+      // let tpObj = this.teacherPublishObj;
       // for(let name in tpObj){
       //   if(obj[name]) tpObj[name] = obj[name];
       // }

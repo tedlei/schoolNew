@@ -22,7 +22,7 @@
             } else {
                 this.verifyLogin({
                     message: '未登陆，请先登陆！',
-                    url: 'http://www.chuniaoedu.com/#/index/loginAndRegister'
+                    url: 'http://192.168.3.87:8080/#/loginAndRegister'
                 }, false);
                 return
             }

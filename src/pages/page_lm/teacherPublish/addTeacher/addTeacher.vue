@@ -124,7 +124,7 @@
 
 <script>
 import './addTeacher.less';
-import addTeacher from './addTeacher.js'
+import addTeacher from './addTc.js'
 export default {
   ...addTeacher
 }

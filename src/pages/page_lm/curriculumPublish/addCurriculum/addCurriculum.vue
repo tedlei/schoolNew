@@ -212,7 +212,7 @@
 
 <script>
 import './addCurriculum.less';
-import addCurriculum from './addCurriculum.js'
+import addCurriculum from './addCr.js'
 export default {
   ...addCurriculum
 }
